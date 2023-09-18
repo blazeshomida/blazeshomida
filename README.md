@@ -6,6 +6,16 @@ I'm a Front-end Developer based in Hawaii, transitioning from a career in sales 
 
 ## 🛠️ Technologies & Tools
 
+### Language
+
+<div>
+  <a href='https://developer.mozilla.org/en-US/docs/Web/HTML'><img src="./logos/html-logo.svg" title="HTML" alt="HTML" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./logos/css-logo.svg" title="CSS" alt="CSS" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./logos/javascript-logo.svg" title="Javascript" alt="Javascript" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org"><img src="./logos/typescript-logo.svg" title="Typescript" alt="Typescript" width="40" height="40"/></a>
+  <a href="https://sass-lang.com/"><img src="./logos/sass-logo.svg" title="SASS" alt="SASS" width="40" height="40"/></a>
+</div>
+
 ### Front-end
 
 <div>
