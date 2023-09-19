@@ -6,7 +6,7 @@ I'm a Front-end Developer based in Hawaii, transitioning from a career in sales 
 
 ## 🛠️ Technologies & Tools
 
-### Language
+### Languages
 
 <div>
   <a href='https://developer.mozilla.org/en-US/docs/Web/HTML'><img src="./logos/html-logo.svg" title="HTML" alt="HTML" width="40" height="40"/></a>
