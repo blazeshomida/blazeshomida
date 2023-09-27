@@ -16,7 +16,7 @@ I'm a Front-end Developer based in Hawaii, transitioning from a career in sales 
   <a href="https://sass-lang.com/"><img src="./logos/sass-logo.svg" title="SASS" alt="SASS" width="40" height="40"/></a>
 </div>
 
-### Front-end
+### Front-end Frameworks
 
 <div>
   <a href='https://react.dev/'><img src="./logos/react-logo.svg" title="React" alt="React" width="40" height="40"/></a>
@@ -24,7 +24,6 @@ I'm a Front-end Developer based in Hawaii, transitioning from a career in sales 
   <a href="https://vitejs.dev/"><img src="./logos/vite-logo.svg" title="Vite" alt="Vite" width="40" height="40"/></a>
   <a href="https://solidjs.com/"><img src="./logos/solidjs-logo.svg" title="SolidJS" alt="SolidJS" width="40" height="40"/></a>
   <a href="https://astro.build/"><img src="./logos/astrojs-logo.svg" title="Astro" alt="Astro" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/"><img src="./logos/tailwindcss-logo.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/></a>
 </div>
 
 ### Version Control
@@ -36,7 +35,8 @@ I'm a Front-end Developer based in Hawaii, transitioning from a career in sales 
 
 ### Other Tools
 
-<div>
+<div> 
+  <a href="https://tailwindcss.com/"><img src="./logos/tailwindcss-logo.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/></a>
   <a href="https://www.framer.com/api/motion/"><img src="./logos/framer-motion-logo.svg" title="Framer Motion" alt="Framer Motion" width="40" height="40"/></a>
 </div>
 
