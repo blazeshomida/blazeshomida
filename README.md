@@ -1,6 +1,8 @@
-# Hi, I'm Blaze Shomida 👋
+# Hey I'm Blaze 👋🏻
 
-I'm a Front-end Developer based in Hawaii, transitioning from a career in sales to web development. I'm passionate about building performant and accessible web applications.
+## About Me
+
+I'm a self-taught software engineer specializing in performant, scalable web development. With expertise in TypeScript, Rust, React, SolidJS, and Next.js, I build clean, maintainable applications while optimizing performance. Recently, I’ve been focusing on developing libraries and tooling to enhance workflows and improve developer experience. My background in sales and mentorship strengthens my problem-solving and communication skills, enabling me to create intuitive, user-centric solutions. I’m always learning, exploring new patterns, and refining my approach to modern web development.
 
 <div align="center">
 
